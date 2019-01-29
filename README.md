@@ -1,6 +1,4 @@
-###################################
 # Server-Side Scripting in Python #
-###################################
 
 Part 1) Function def, File Read, JSON Parse, stdin
 
